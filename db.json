@@ -1,0 +1,24 @@
+{
+  "institucion": [
+    {
+      "name": "Escuela Politecnica Nacional",
+      "Descripcion": "Ta chido",
+      "Ubicacion": "En quito xdd",
+      "id": "6b43"
+    },
+    {
+      "name": "Catolica",
+      "Descripcion": "agnostico",
+      "Ubicacion": "A lado de la epn xdd",
+      "id": "2293"
+    },
+    {
+      "name": "San pancho",
+      "Descripcion": "el colegio mas GOOODDDDD",
+      "Ubicacion": "a lado del centro comercial quicentro",
+      "id": "0dec"
+    }
+  ],
+  "estudiantes": [],
+  "profesores": []
+}
